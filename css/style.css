@@ -1,6 +1,6 @@
 body {
     background-color: rgb(14, 3, 17);
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Share Tech Mono', monospace;
   }
 #score, #createdby{
     margin: 0;
@@ -9,6 +9,9 @@ body {
 #createdby{
     color: #eee;
     font-size: 14px;
+}
+a{
+    color: white;
 }
 #score{
     color: red;
