@@ -11,3 +11,5 @@ It is made simply with HTML(Canvas) + CSS + Javascript, and of course a lot of l
 You can improve a lot and make the code more complex, such as some bug since the food can be generated above the snake. But they are details that I decided to omit since they don't make the game more fun or the code more complex.
 Enjoy playing for a while like me remembering my first great old cell phone the legendary motorola C200 with blue screen
 Any comment is welcome, greetings. Fittipaldih!
+
+![SnakeGameFittipaldi](https://user-images.githubusercontent.com/111435538/228718627-773cfd9b-d535-4f3b-9764-9ef858d54f3d.jpg)
