@@ -1,3 +1,5 @@
+VISITA EL SITIO EN VIVO - https://fittipaldih.github.io/SnakeGame-Javascript/
+
 [Español]
 
 Este es un juego de snake clasico, simple, realizado para fortalecer y repasar conceptos basicos de Javascript.
