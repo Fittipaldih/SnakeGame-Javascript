@@ -1,6 +1,6 @@
-VISITA EL SITIO EN VIVO - https://fittipaldih.github.io/SnakeGame-Javascript/
+## VISITA EL SITIO EN VIVO - https://fittipaldih.github.io/SnakeGame-Javascript/
 
-[Español]
+### [Español]
 
 Este es un juego de snake clasico, simple, realizado para fortalecer y repasar conceptos basicos de Javascript.
 El mismo esta realizado simplemente con HTML(Canvas) + CSS + Javascript, y por supuesto que mucha logica!
@@ -10,7 +10,7 @@ Se puede mejorar muchisimo y complejizar un poco el codigo, como por ejemplo alg
 Disfruten jugando un rato al igual que yo, que aproveche a recordar mi primer gran celular (el legendario motorola C200) con pantalla con luz color azul, jajaja.
 Cualquier comentario es bienvenido, saludos. Fittipaldih!
 
-[English]
+### [English]
 
 This is a simple, classic retro snake game made to strengthen and review basic Javascript concepts.
 It is made simply with HTML(Canvas) + CSS + Javascript, and of course a lot of logic
